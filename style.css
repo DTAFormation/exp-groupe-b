@@ -9,3 +9,6 @@ img{
     text-align: justify;
     width: 50%;
 }
+li {
+    list-style: none;
+}
