@@ -7,14 +7,6 @@ body{
 a {
     text-decoration: none;
 }
-img{
-    width: 40%;
-
-}
 li {
     list-style-type: none;
-}
-p{
-    width: 50%;
-    text-align: right;
 }
