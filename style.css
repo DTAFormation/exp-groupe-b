@@ -1,14 +1,14 @@
+body{
+    font-family: 'Delius Unicase', cursive;
+}
 a {
     text-decoration: none;
+    text-shadow: 2px 2px #ff0000;
 }
 img{
     width: 40%;
 
 }
-p{
-    text-align: justify;
-    width: 50%;
-}
 li {
-    list-style: none;
+    list-style-type: none;
 }
