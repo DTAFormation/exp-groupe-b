@@ -1,13 +1,11 @@
 body{
     font-family: 'Delius Unicase', cursive;
+    width: 80%;
+    margin: auto;
+    text-align: center;
 }
 a {
     text-decoration: none;
-    text-shadow: 2px 2px #ff0000;
-}
-img{
-    width: 40%;
-
 }
 li {
     list-style-type: none;
