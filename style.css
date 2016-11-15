@@ -13,13 +13,7 @@ li {
 }
 p{
     width:50%;
-    float: left;
 }
 img{
     width: 40%;
-    margin-left: 5%;
-     float: left;
-}
-.clear{
-   clear: both;
 }
