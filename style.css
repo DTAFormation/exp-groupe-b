@@ -1,6 +1,11 @@
 a {
     text-decoration: none;
 }
+img{
+    width: 45%;
+
+}
 p{
     text-align: justify;
+    width: 50%;
 }
