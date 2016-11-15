@@ -3,6 +3,7 @@ body{
     width: 80%;
     margin: auto;
     text-align: center;
+    background-color: lightslategray;
 }
 a {
     text-decoration: none;
