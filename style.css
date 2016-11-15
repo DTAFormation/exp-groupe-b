@@ -1,14 +1,12 @@
+body{
+    font-family: 'Delius Unicase', cursive;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
 a {
     text-decoration: none;
 }
-img{
-    width: 40%;
-
-}
-p{
-    text-align: justify;
-    width: 50%;
-}
 li {
-    list-style: none;
+    list-style-type: none;
 }
