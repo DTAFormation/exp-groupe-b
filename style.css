@@ -11,3 +11,9 @@ a {
 li {
     list-style-type: none;
 }
+p{
+    width:50%;
+}
+img{
+    width: 40%;
+}
