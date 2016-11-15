@@ -13,17 +13,10 @@ li {
 }
 p{
     width:50%;
+    float: left;
 }
 img{
     width: 40%;
-}p{
-    width:50%;
-}
-img{
-    width: 40%;
-}p{
-    width:50%;
-}
-img{
-    width: 40%;
+    margin-left: 5%;
+     float: left;
 }
