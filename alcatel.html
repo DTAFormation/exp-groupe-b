@@ -23,11 +23,25 @@
         margin-right: auto;
         margin-bottom:50px;
     }
+    #signature {
+        margin-left:700px;
+    }
+    body {
+        background-color: #D5C9DC;
+    }
    
 </style>
+<script type="text/javascript">
+    function agrandir(){
+        document.getElementById("myimage").style.width = "500px";
+    }
+    function reduire(){
+        document.getElementById("myimage").style.width = "250px";
+    }
+</script>
 <body>
     <h1>Alternance Alcatel-Lucent Enterprise</h1>
-    <img src="http://experiencedays.events/face/img/logo_ALUE.png" style="width:250px" align="center"s/>
+    <img id="myimage" src="http://experiencedays.events/face/img/logo_ALUE.png" style="width:250px" align="center" onmouseover="agrandir();" onmouseout="reduire();"/>
     <p id="intitule"> Alcatel-Lucent Enterprise, Brest</p>
     <p id="contenu">
         - Contrat d’alternance dans le cadre du Master M2I<br />
@@ -37,6 +51,10 @@
         - Etude de faisabilité pour une intégration de la solution de téléphonie sous Chrome<br />
         Application<br />
         - Interconnexion de la plateforme de téléphonie Alcatel avec un CRM tiers<br />
-        </p>
+    </p>
+    <br />
+    <p id="signature">
+        Arnaud Lemarquand
+    </p>
 </body>
 </html>
