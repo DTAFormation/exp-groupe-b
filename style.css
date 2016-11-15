@@ -5,8 +5,13 @@ img{
     width: 40%;
 
 }
+body{
+    width:100%;
+    font-size: 2em;
+    font-family: 'Delius Unicase', cursive;
+}
 p{
-    text-align: justify;
+    text-align: right;
     width: 50%;
 }
 li {
